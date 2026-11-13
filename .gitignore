@@ -1,0 +1,29 @@
+# Настройки IDE
+.idea/
+.vscode/
+*.iml
+
+# Скомпилированные файлы Java
+*.class
+target/
+out/
+
+# Логи
+*.log
+logs/
+
+# Временные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Секреты и переменные окружения (никогда не коммитить!)
+.env
+*.pem
+*.key
+id_rsa
+id_ed25519
+secrets/
+db_password.txt
+
+# Файлы Docker
+docker-compose.override.yml
