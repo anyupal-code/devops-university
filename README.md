@@ -22,18 +22,18 @@
 
 ## Оглавление курса
 
-* Урок 1. Введение в DevOps и Linux-сервер
-* Урок 2. Сети для разработчика
-* Урок 3. Bash-скрипты
-* Урок 4. Веб-сервер Nginx и обратный прокси
-* Урок 5. Docker вглубь: многоэтапная сборка
-* Урок 6. Docker Compose в продакшне
-* Урок 7. Введение в CI/CD
-* Урок 8. GitHub Actions: Тесты и сборка
-* Урок 9. GitHub Actions: Публикация Docker-образа
-* Урок 10. Мониторинг (Prometheus и Grafana)
-* Урок 11. Введение в Kubernetes (K8s)
-* Урок 12. Итоговый проект (Полный цикл CI/CD)
+* [Урок 1. Введение в DevOps и Linux-сервер](lesson-01-linux-basics/README.md)
+* [Урок 2. Сети для разработчика](lesson-02-networking/README.md)
+* [Урок 3. Bash-скрипты](lesson-03-bash/README.md)
+* [Урок 4. Веб-сервер Nginx и обратный прокси](lesson-04-nginx/README.md)
+* [Урок 5. Docker вглубь: многоэтапная сборка](lesson-05-docker-deep/README.md)
+* [Урок 6. Docker Compose в продакшне](lesson-06-docker-compose-prod/README.md)
+* [Урок 7. Введение в CI/CD](lesson-07-cicd-intro/README.md)
+* [Урок 8. GitHub Actions: Тесты и сборка](lesson-08-github-actions-build/README.md)
+* [Урок 9. GitHub Actions: Публикация Docker-образа](lesson-09-github-actions-docker/README.md)
+* [Урок 10. Мониторинг (Prometheus и Grafana)](lesson-10-monitoring/README.md)
+* [Урок 11. Введение в Kubernetes (K8s)](lesson-11-kubernetes/README.md)
+* [Урок 12. Итоговый проект (Полный цикл CI/CD)](lesson-12-final-project/README.md)
 
 ---
 
